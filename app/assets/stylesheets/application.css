@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+ .task-decription {
+  background-color: rgb(240, 240, 240);
+  border: 2px solid rgb(230, 230, 230);
+  border-radius: 5px;
+  padding: 20px 10px;
+ }
+
+.task-checked {
+  border-bottom: 2px solid rgb(230, 230, 230);
+  padding: 20px 10px;
+}
+
+.task-list {
+  border-bottom: 2px solid rgb(230, 230, 230);
+}
